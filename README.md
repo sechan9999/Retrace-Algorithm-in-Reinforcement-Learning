@@ -22,3 +22,5 @@ value Q we wish to estimate from sample trajectories drawn from a behaviour poli
 we consider a sequence of policies that depend on our own sequence of Q-functions (such as "-greedy
 policies), and seek to approximate Q.
 
+Research Paper: [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647)
+
